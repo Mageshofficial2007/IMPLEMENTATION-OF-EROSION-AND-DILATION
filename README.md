@@ -116,7 +116,3 @@ plt.axis('off')
 
 The implementation successfully demonstrates erosion and dilation operations using OpenCV. These morphological techniques help improve image quality, remove unwanted noise, and enhance object structures for computer vision tasks.
 
----
-
-
-This project is open-source and available under the MIT License.
